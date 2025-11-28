@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    background-color: #FFFAEB;
+    height: 2300px;
+    max-width: 100%;
+}
+
+.top-header {
+    margin-left: 30px;
+    margin-top: 25px;
+
+}
+
+.flag {
+    margin-top: -35px;
+    margin-left: 1400px;
+}
+
+.mid-text {
+    margin-left: 490px;
+    margin-top: -730px;
+    color: #F9B800;
+}
+
+.text2 {
+    font-size: 50px;
+    margin-left: -160px;
+    color: black;
+}
+
+.display-box {
+    margin-left: -250px;
+
+}
+
+.display-box2 {
+    margin-left: 155px;
+}
+
+.btn button {
+    height: 40px;
+    width: 175px;
+    background-color: #F9B800;
+    border-radius: 20px;
+    margin-left: 280px;
+}
+
+.mid-display {
+    margin-top: -1750px;
+    margin-left: 85px;
+}
+
+.second-text {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -430px;
+    margin-left: 90px;
+}
+
+.third-text {
+    margin-left: 90px;
+    text-decoration: underline;
+}
+
+.forth-text {
+    margin-left: 90px;
+}
+
+.two-btn button {
+    height: 45px;
+    width: 185px;
+    background-color: black;
+    border-radius: 23px;
+    color: white;
+    margin-left: 100px;
+}
+
+.girl-pic {
+    margin-left: 590px;
+    margin-top: -380px;
+}
+
+.secondmid-display {
+    margin-top: 135px;
+    margin-left: 30px;
+
+}
+
+.box-one {
+    margin-top: -460px;
+    margin-left: 55px;
+}
+
+.box-two {
+    margin-top: 35px;
+    margin-left: 55px;
+}
+
+.box-three {
+    margin-top: -460px;
+    margin-left: 290px;
+}
+
+.box-four {
+    margin-top: 35px;
+    margin-left: 290px;
+}
+
+.fifth-text {
+    color: #F9B800;
+    margin-left: 570px;
+    margin-top: -450px;
+}
+
+.sixth-text {
+    color: white;
+    margin-left: 570px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.two-btn button {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin-top: 40px;
+    margin-left: 570px;
+}
+
+.third-middisplay {
+    color: black;
+    border-radius: 30px;
+    margin-top: 270px;
+}
+
+.boy-img {
+    margin-top: -320px;
+    margin-left: 70px;
+}
+
+.seventh-text {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 460px;
+    margin-top: -240px;
+}
+
+.eight-text {
+    margin-left: 460px;
+}
+
+.ninth-text {
+    font-weight: bold;
+    margin-left: 460px;
+}
+
+.arrow-img {
+    margin-left: 460px;
+}
